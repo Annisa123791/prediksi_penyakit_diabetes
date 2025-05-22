@@ -186,6 +186,7 @@ Berdasarkan visualisasi untuk *feature* numerik pada dataset yang dapat dilihat 
 <p align='center'><img src ="https://raw.githubusercontent.com/Synjoestar/diabetesprediksi/main/images/5.png?raw=true"  width="400"></p>
 
 2. **Handling imbalanced data**
+   
    - *Imbalanced data* adalah kondisi di mana distribusi jumlah kelas dalam dataset tidak merata.
    
    - Tujuan penanganan data tidak seimbang adalah untuk meningkatkan kemampuan model dalam memprediksi kelas yang jumlahnya lebih sedikit (kelas minoritas).
