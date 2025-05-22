@@ -356,7 +356,7 @@ weighted avg       0.76      0.75      0.75       231
 
 ## Kesimpulan
 
-- ****Tuning model memberikan pengaruh signifikan terhadap performa pada data pelatihan**, dimana akurasi meningkat dari 87% menjadi 98%, yang menunjukkan model menjadi lebih mampu menangkap pola dalam data tersebut.
+- Tuning model memberikan pengaruh signifikan terhadap performa pada data pelatihan, dimana akurasi meningkat dari 87% menjadi 98%, yang menunjukkan model menjadi lebih mampu menangkap pola dalam data tersebut.
 
 - **Namun, pada data pengujian**, peningkatan akurasi hanya terjadi secara marginal. Hal ini mengindikasikan bahwa:
   
